@@ -1,0 +1,14 @@
+{
+  "name": "@ugoromi/prettier-config",
+  "version": "1.0.0",
+  "description": "My personal prettier config",
+  "main": "index.js",
+  "repository": "https://github.com/UgoRomi/prettier-config",
+  "scripts": {},
+  "keywords": [
+    "prettier",
+    "config"
+  ],
+  "author": "Ugo Romi <ugo.romi@gmail.com>",
+  "license": "MIT"
+}
